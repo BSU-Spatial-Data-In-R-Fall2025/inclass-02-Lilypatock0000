@@ -26,6 +26,11 @@ Save the document and commit your change
 Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
 
 Save the document and commit your change.
+```{r sumbirth}
+4 + 8 + 2004
+
+```
+
 
 ## Render the document
 
