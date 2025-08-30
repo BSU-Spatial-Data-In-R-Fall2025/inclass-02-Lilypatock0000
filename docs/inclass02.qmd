@@ -1,6 +1,10 @@
 ---
 title: "assignmentXX"
 format: html
+author:
+  name: Lily Patock
+  affiliation:
+    name: Boise State University
 ---
 
 # Your first Quarto Document
@@ -13,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+My name is Lily Patock and I am from Sacramento, California. I work on mosquitoes. 
 
 Save the document and commit your change
 
@@ -22,6 +26,11 @@ Save the document and commit your change
 Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
 
 Save the document and commit your change.
+```{r sumbirth}
+4 + 8 + 2004
+
+```
+
 
 ## Render the document
 
